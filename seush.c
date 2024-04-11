@@ -164,7 +164,7 @@ int parseline(const char *cmdline,char **argv)
     if (argc == 0)
 	return 1;
 
-    //to do
+    //need bg/fg
 }
 
 int builtin_cmd(char **argv) 
